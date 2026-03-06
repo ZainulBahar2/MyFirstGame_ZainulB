@@ -1,0 +1,117 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>Modern wooden door with three texture variants and three resolutions: 1k, 2k, and 4k.</p><p>Adjusted scales and standard measurements. </p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/0942291d-574c-4a88-8f29-b25dc7dcf9c8/3bf5e64e-a3b3-4118-887e-2084ec8a2800.jpg",
+		"publishedAt": "2025-09-21T01:17:42.296000Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/a49335d7-c4ea-46b9-ac6e-50eab63cab7e/311f2aab-10d0-4e50-b5e9-450e4453ea25.jpg",
+		"title": "Modern Door",
+		"uid": "41516fcd-3362-4a4f-8f98-c72c74c60dfa",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "",
+			"sellerName": "Yami757",
+			"uid": "bd964110-a6f4-409d-be18-dd4f19f816ba"
+		},
+		"tags": [
+			{
+				"name": "Blender",
+				"slug": "blender",
+				"uid": "141666cf-0a09-4718-85fa-f0d54884a525"
+			},
+			{
+				"name": "House",
+				"slug": "house",
+				"uid": "6596d504-e433-42e9-a760-b829827af869"
+			},
+			{
+				"name": "Door",
+				"slug": "door",
+				"uid": "9e43d940-9f18-4db0-aa17-f7ffec109645"
+			},
+			{
+				"name": "Wood",
+				"slug": "wood",
+				"uid": "bcd38165-4b32-484d-bce7-c6cdaf827f77"
+			},
+			{
+				"name": "Architecture",
+				"slug": "architecture",
+				"uid": "cfb43d77-a91f-42ad-bd9d-b472c97d3f06"
+			}
+		],
+		"category":
+		{
+			"name": "Doors",
+			"path": "buildings-architecture/components/doors",
+			"slug": "buildings-architecture--components--doors",
+			"uid": "562dfbfa-65c3-451a-9f53-5241a9ba1c76"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "Blender",
+					"groupName": "3D DCC Formats",
+					"code": "blender",
+					"icon": "blender",
+					"extensions": [
+						"blend"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Additional files",
+					"groupName": "Other Formats",
+					"code": "additional-files",
+					"icon": "file",
+					"extensions": [
+						"zip"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "98b625fc-3cbf-4dd2-a624-7a0bcefca78a",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "UE_5.4",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "b64a9551-3ddf-4eed-8098-44afb6eb834a",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "98b625fc-3cbf-4dd2-a624-7a0bcefca78a",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}
