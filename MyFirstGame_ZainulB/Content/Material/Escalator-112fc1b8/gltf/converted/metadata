@@ -1,0 +1,99 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>Escalator</p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/760b1190-791c-437d-a76f-c0fcacf1960f/4fbb125a-fe0f-4c13-8c0e-e4b99dd15c13.jpg",
+		"publishedAt": "2026-02-07T08:59:43.403283Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/645add54-b132-4b18-863e-adde29e3342c/2e79f1d7-f0ea-4b41-acc0-30159e718eed.jpg",
+		"title": "Escalator",
+		"uid": "112fc1b8-9f51-4095-b4c7-741648c7abfb",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "",
+			"sellerName": "chancongchen",
+			"uid": "0d407f51-4d8f-4630-af14-9f9619ae83ee"
+		},
+		"tags": [
+			{
+				"name": "Escalator",
+				"slug": "escalator",
+				"uid": "29629332-3944-45e9-9d44-119ab33ed774"
+			}
+		],
+		"category":
+		{
+			"name": "Stairs",
+			"path": "buildings-architecture/components/stairs",
+			"slug": "buildings-architecture--components--stairs",
+			"uid": "004fd653-06dc-4368-862c-3239c2395d2a"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "GLB",
+					"groupName": "3D Exchange Formats",
+					"code": "glb",
+					"icon": "cube",
+					"extensions": [
+						"glb"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Blender",
+					"groupName": "3D DCC Formats",
+					"code": "blender",
+					"icon": "blender",
+					"extensions": [
+						"blend"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "f92f7773-eb92-49d2-9331-a2e6f4215f69",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "UE_5.4",
+	"quality": "",
+	"format": "gltf",
+	"fileId": "24a61303-48c1-45f2-99fe-b98d43236a1e",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "f92f7773-eb92-49d2-9331-a2e6f4215f69",
+	"invertedNormal": false,
+	"isConverted": true,
+	"isQuixel": false
+}
